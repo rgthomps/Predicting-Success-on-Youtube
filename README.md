@@ -56,11 +56,11 @@ githubs: kinghenderson
          
 Repository Structure:
 
-├── Web_App                                    # folder containing files for the web app
-    ├── app.py                                 # python script to run web app (front-end)
-    ├── my_model.hdf5                          # model data for running the web app (back-end)
-    └── app_images                             # folder of images for use with the web application
-├── Data                                       # images and graphics used in project
-├── Image_Classification_Notebook.ipynb        # code/project notebook
-├── Presentation.pdf                           # non-technical stakeholder presentation slides
-└── README.md                                  # the top-level README for reviewers of this project         
+    ├── Web_App                                    # folder containing files for the web app
+        ├── app.py                                 # python script to run web app (front-end)
+        ├── my_model.hdf5                          # model data for running the web app (back-end)
+        └── app_images                             # folder of images for use with the web application
+    ├── Data                                       # images and graphics used in project
+    ├── Image_Classification_Notebook.ipynb        # code/project notebook
+    ├── Presentation.pdf                           # non-technical stakeholder presentation slides
+    └── README.md                                  # the top-level README for reviewers of this project         
