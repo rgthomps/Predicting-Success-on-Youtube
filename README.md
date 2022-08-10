@@ -21,6 +21,7 @@ This is simply a limitation for our data, and in response we chose to triple the
 
 ### Data from Kaggle 
 For this project, I chose to first look into Youtube data that I found on the Kaggle website. The data set included 40,000 different YouTube videos that had 'trended' over the span of +210 days (2017-2018). We used this data to create a prediction model in hopes of learning which factors are directly related to a Youtube Channel's success. Unfortunately, we discovered that there is no metric (# of tags in the video, length of description, genre) within the creators control that directly affects the success of a video. But this doesn't mean we didn't find anything useful. 
+##### Link - https://www.kaggle.com/datasets/pavandas/youtube
 
 ### Modeling 
 Our Decision Tree model suggests that likes, dislikes and comments are the only major components that directly effect the number of views your video gets. This is consistent with the fact that 'trending videos' become so by a statistical algorithm designed by google. This tells us it is the social component of the video that will decide its fate. Does it facilitate interaction and discussion? It is important to note that dislikes were also positively correlated with a video's success. Once again reinforcing the notion that you don't need to make a video that everyone will like, you need to make one that entices people into interaction and discussion.
