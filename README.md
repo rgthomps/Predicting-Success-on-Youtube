@@ -51,7 +51,8 @@ Lastly, we asked ourselves when should the series be released. To answer this qu
 
 # Thank You
 
-githubs: kinghenderson 
+githubs: kinghenderson
+
          rgthomps
          
 Repository Structure:
