@@ -48,3 +48,19 @@ Lastly, we asked ourselves when should the series be released. To answer this qu
 ##### here we see the Non-profit and activism is the most popular catagory for likes,dislikes,and comments (per view) on it's videos. This happens because it has controversial topics and disscussions. It could be beneficial to implement a similar trend to our Dota 2 videos.  
 2. We recommend releasing a trailer advertising the series a few weeks before the series to build anticipation. This should not require additional funds to achieve if you can simply cut together a few random moments from the series with a VoiceOver you write and record yourself.
 3. We highly recommend the series be release throughout the month of October while the Dota International is taking place. The increased viewership will provide the series the best opportunity for success.
+
+# Thank You
+
+githubs: kinghenderson 
+         rgthomps
+         
+Repository Structure:
+
+├── Web_App                                    # folder containing files for the web app
+    ├── app.py                                 # python script to run web app (front-end)
+    ├── my_model.hdf5                          # model data for running the web app (back-end)
+    └── app_images                             # folder of images for use with the web application
+├── Data                                       # images and graphics used in project
+├── Image_Classification_Notebook.ipynb        # code/project notebook
+├── Presentation.pdf                           # non-technical stakeholder presentation slides
+└── README.md                                  # the top-level README for reviewers of this project         
