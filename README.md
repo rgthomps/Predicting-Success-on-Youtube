@@ -49,6 +49,7 @@ Lastly, we asked ourselves when should the series be released. To answer this qu
 2. We recommend releasing a trailer advertising the series a few weeks before the series to build anticipation. This should not require additional funds to achieve if you can simply cut together a few random moments from the series with a VoiceOver you write and record yourself.
 3. We highly recommend the series be release throughout the month of October while the Dota International is taking place. The increased viewership will provide the series the best opportunity for success.
 
+# [Slides](Presentation.pdf)
 # Thank You
 
 github(1): kinghenderson
