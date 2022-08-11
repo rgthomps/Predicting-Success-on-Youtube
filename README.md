@@ -57,8 +57,9 @@ github(2): rgthomps
          
 Repository Structure:
 
-    ├── ******                                    # folder containing files for the web app
-       
+    ├── exploritory                                # folder containing files for the web app
+       -Notebook
+       -Youtube_project_king
     ├── .gitignore                                 # images and graphics used in project
     ├── Notebook.ipynb                             # code/project notebook
     ├── Presentation.pdf                           # non-technical stakeholder presentation slides
