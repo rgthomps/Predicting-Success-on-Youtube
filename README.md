@@ -59,7 +59,7 @@ Repository Structure:
 
     ├── exploritory                                # folder containing files for the web app
        -Notebook
-       -Youtube_project_king
+       -Youtube_project_king.ipynb
     ├── .gitignore                                 # images and graphics used in project
     ├── Notebook.ipynb                             # code/project notebook
     ├── Presentation.pdf                           # non-technical stakeholder presentation slides
